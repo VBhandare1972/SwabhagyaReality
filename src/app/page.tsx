@@ -258,7 +258,7 @@ export default function Home() {
               <AnimatedHeading text={"Your Dream Home\nAwaits in Nashik."} className="hero-title-professional" />
               
               <p className="hero-description-professional">
-                12 years of trust. 500+ families served. RERA-verified properties
+                14 years of trust. 500+ families served. RERA-verified properties
                 across Nashik's finest locations — zero hidden charges, complete peace of mind.
               </p>
               

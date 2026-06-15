@@ -6,7 +6,7 @@ import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
   title: 'Why Choose Us — Swabhagya Realty Nashik',
-  description: 'Discover why 500+ families trust Swabhagya Realty — transparent pricing, RERA verified listings, expert advisors, and post-sale support in Nashik.',
+  description: 'Discover why 500+ families trust Swabhagya Reality — transparent pricing, RERA verified listings, expert advisors, and post-sale support in Nashik.',
 };
 
 const CLIENT_IMAGES = [
@@ -1057,7 +1057,7 @@ export default function WhyUsPage() {
         <div className="features-section">
           <div className="features-header">
             <p className="process-label">Our differentiators</p>
-            <h2 className="process-title">9 reasons families choose<br />Swabhagya Realty.</h2>
+            <h2 className="process-title">9 reasons families choose<br />Swabhagya Reality</h2>
             <p className="process-subtitle">We've spent 14 years earning trust, one honest deal at a time.</p>
           </div>
           <div className="features-grid">

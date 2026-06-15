@@ -13,7 +13,7 @@ const TEAM = [
   {
     name: "Suresh Kulkarni",
     role: "Founder & Director",
-    bio: "12 years in Nashik real estate. Personally oversees every major transaction and builder tie-up. His philosophy: a deal is only done when the buyer is at peace.",
+    bio: "14 years in Nashik real estate. Personally oversees every major transaction and builder tie-up. His philosophy: a deal is only done when the buyer is at peace.",
     img: "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=200&q=80"
   },
   {
@@ -198,7 +198,7 @@ export default function AboutPage() {
         <div className="hero-content-advanced">
           <div className="hero-badge"><StarIcon /> 14 Years of Excellence <StarIcon /></div>
           <h1 className="hero-title-advanced">14 years of trust.<br />600+ families home.</h1>
-          <p className="hero-desc-advanced">Swabhagya Realty was founded on a simple belief — that buying a home should feel like gaining, not losing, peace of mind.</p>
+          <p className="hero-desc-advanced">Swabhagya Reality was founded on a simple belief — that buying a home should feel like gaining, not losing, peace of mind.</p>
           <div className="hero-stats-advanced">
             <div className="hero-stat"><span className="stat-num">₹75Cr+</span><span>Assets Transacted</span></div>
             <div className="hero-stat"><span className="stat-num">25+</span><span>Projects</span></div>
@@ -209,7 +209,7 @@ export default function AboutPage() {
 
       {/* Who We Are */}
       <section className="sec sec-border">
-        <p className="label">Who we are</p>
+        
         <div className="about-story-grid">
           <div>
             <h2 className="h2">Built from Nashik,<br />for Nashik.</h2>
