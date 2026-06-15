@@ -343,7 +343,7 @@ export default function BookPage() {
         }
 
         .whatsapp-card {
-          background: linear-gradient(135deg, #e8f8ee 0%, #d4f5e4 100%);
+          background: linear-gradient(135deg, #e8f8ee 0%, #d0e1d8 100%);
           border: 2px solid #9AB17A;
           transition: all 0.3s ease;
         }
